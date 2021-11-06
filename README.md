@@ -1,4 +1,4 @@
-# Furby
+# Furby e
 ## Python tools for handing Furby Connect DLC files
 
 <p align="center">
